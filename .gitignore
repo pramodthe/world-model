@@ -5,3 +5,7 @@ __pycache__/
 .DS_Store
 data/
 checkpoints/
+
+# Files the notebooks download next to themselves
+*.npz
+*.pt
